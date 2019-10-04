@@ -2,6 +2,7 @@
 (try to reload the notebook if does not load immediately)
 * ![Visualization of munich bicycle statistics](data_visualization.ipynb "Visualization of munich bicycle statistics")
 * ![Download data](download_data.ipynb "Download data")
+* Note: Please download the notebooks and run them locally for more visually appealing results
 
 
 # Explanation:
