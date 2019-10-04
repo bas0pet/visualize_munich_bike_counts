@@ -1,5 +1,5 @@
 # Notebooks:
-
+(try to reload the notebook if does not load immediately)
 * ![Visualization of munich bicycle statistics](data_visualization.ipynb "Visualization of munich bicycle statistics")
 * ![Download data](download_data.ipynb "Download data")
 
@@ -8,7 +8,7 @@
 This repository contains a data analysis of bicycle counting stations for the town munich.
 To see the visual results look at:
 
-![Visualization of munich bicycle statistics](data_visualization.ipynb "Visualization of munich bicycle statistics") - try to reload if notebook does not load immediately
+![Visualization of munich bicycle statistics](data_visualization.ipynb "Visualization of munich bicycle statistics")
 
 For downloading data from https://www.opengov-muenchen.de/ you can use this notebook. 
 
